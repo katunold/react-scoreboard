@@ -11,6 +11,16 @@
 # production
 /build
 
+# IDEs and editors
+package-lock.json
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
 # misc
 .DS_Store
 .env.local
