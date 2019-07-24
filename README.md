@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Scoreboard
+## Description
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This is a simple scoreboard application designed to keep scores for parties involved in a game with a timer
+- [Live Demo here!](https://katunold.github.io/react-scoreboard/)
 
 ## Available Scripts
 
